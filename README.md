@@ -7,6 +7,6 @@ in the shortest time possible. You are most welcome to fork and improve/build up
 The repo contains two recommnder system codes :
 
 1. Genre-based Recommendation.
-2. Nearest neighbours based Recommendation.
+2. Nearest neighbours based Recommendation.(Well-documented)
 
 Give a star if it helped you in anyway :)
